@@ -1,6 +1,8 @@
 <foo>
-	<items>
-		<morefoo />
-		<evenmorefoo />
-	</items>
+ <items>
+  <morefoo />
+  <evenmorefoo />
+  <blah>
+  </blah>
+ </items>
 </foo>
